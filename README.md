@@ -1,3 +1,5 @@
+## This was sourced and copied from Academic Pages with their initial README found below
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
